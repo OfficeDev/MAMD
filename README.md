@@ -9,7 +9,7 @@ Our tool takes you through a simple five-step migration process. It accepts Syma
 
 You can safely use the MAMD tool to create DLP policies in test mode, which does not affect your live data or interact with current environment. 
 
-[Download the Migration Assistant for Microsoft DLP](https://aka.ms/DownloadMDMA)
+[**Download the Migration Assistant for Microsoft DLP**](https://aka.ms/DownloadMDMA)
 
 ## Migration tasks that MAMD performs
 
