@@ -27,7 +27,7 @@ MAMD takes over many of the difficult or tedious tasks involved in a DLP migrati
 
 ## How does MAMD work?
 
-![image](https://user-images.githubusercontent.com/67892508/136505871-df1f3eba-19c3-47d1-a51b-d2b3fed93adb.png)
+![Picture1](https://user-images.githubusercontent.com/69503744/154880938-405ee271-482b-4dca-8f41-30017d64758c.png)
 
 During a given instance of migration, the Migration Assistant for Microsoft DLP works in five phases:
 
